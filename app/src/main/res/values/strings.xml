@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PokedexDf</string>
+    <string name="str_something_went_wrong">Something went wrong</string>
+    <string name="str_try_again">Try Again</string>
+    <string name="str_weight">Weight</string>
+    <string name="str_height">Height</string>
+    <string name="str_abilities">Abilities</string>
+    <string name="str_specie">Specie</string>
+    <string name="str_kg">Kg</string>
+    <string name="str_meter">m</string>
+
+</resources>
